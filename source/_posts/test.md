@@ -2,7 +2,6 @@
 title: Test
 date: 2023-10-15 14:02:25
 tags:
-  - Hexo
   - Test
 category: Test
 ---
